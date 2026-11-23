@@ -33,4 +33,4 @@ The app connects to `http://localhost:4566` using dummy credentials.
 This project runs against the Floci local AWS emulator. To use real AWS, remove `endpoint_url` and the dummy credentials in `app.py` and configure your own AWS credentials.
 
 ## Screenshots
-.jpg
+.png/.jpg
